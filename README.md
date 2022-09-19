@@ -1,72 +1,55 @@
-# Getting Started with Create React App
+Deployed Link : 
+<h2>ZEE-5</h2>
 
-Deployed Link : https://zee5site.netlify.app/
+Hi, 
+ 
+When you open your browser , you can see the clone of ZEE5 website with exact same features.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About this project: 🙌
 
-## Available Scripts
+> ZEE5 is a subscription-based streaming service that allows our members to watch TV shows, Web-series and movies on an internet-connected devices. You can also download content to your iOS, Android, or Windows 10 device and watch without an internet connection.
+----
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Moving ahead lets talk about what skills i required to build the website like this,
+I have used -
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>REACT</li>
+  <li>API</li>
+  <li>CHAKRA - UI</li>
+</ul>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**deploy link**
 
-### `npm test`
+Project Deploy Link :  <h2> https://zee5site.netlify.app/ </h2>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Some snippets of my website-
 
-### `npm run build`
+<h3>**Landing Page**</h3>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Some snippets of my website-
+![image](https://user-images.githubusercontent.com/84118928/191005238-28c07645-9424-4afc-b2eb-6520e37f0074.png)
+<br/>
+![image](https://user-images.githubusercontent.com/84118928/191005223-2431057e-d847-4d5a-aa70-c46a503a4184.png)
+<br/>
+![image](https://user-images.githubusercontent.com/84118928/191005587-c8b2b245-7d2e-4895-bfb9-561841939879.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br/>
+<h3>**When you Click on Movie the Trailer is played**</h3>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://user-images.githubusercontent.com/84118928/191005816-e6f6ce15-d13e-4018-aa3d-f89e8dd8e2ba.png)
 
-### `npm run eject`
+![image](https://user-images.githubusercontent.com/84118928/191005803-fb3fb0f2-5e2b-4809-9267-1d1192a380f5.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<hr/>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<h4>HOW I build :</h4>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+I have Build this website by using BOOtstrap and CSS for design, 
+and React for making all functionalities work and mainly i have worked more on apis.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<h2>Thanks and we welcome you for your queries and suggestions</h2>
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
